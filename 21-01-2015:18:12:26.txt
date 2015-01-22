@@ -1,0 +1,730 @@
+    1  paging file nnn:more nnn
+    2  wget download.skype.com/linux/skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    3  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    4  sudo apt-get install gdebi-core
+    5  sudo gdebi skype-ubuntu-precise_4.3.0.37-1_i386.deb
+    6  ps
+    7  cksum ooo.txt
+    8  cksum mmm.txt
+    9  Cmp mmm.txt nnn.txt
+   10  $date
+   11  Vi nnn
+   12  vi nnn
+   13  exit vi
+   14  exit vi : x
+   15  i
+   16  #!/bin/bash
+   17  ls
+   18  #!/bin/bash pwd
+   19  nano test.sh
+   20  ls
+   21  vi test.sh 
+   22  ./test.sh
+   23  chmod 777 test.sh 
+   24  ./test.sh
+   25  what is your name
+   26  echo what is your name
+   27  ./test.sh
+   28  nano test.sh
+   29  chmod +x test.sh
+   30  ./test.sh
+   31  nano test.sh
+   32  chmod +x test.sh
+   33  ./test.sh
+   34  nano test.sh
+   35  chmod +x test.sh
+   36  ./test.sh
+   37  nano test.sh
+   38  chmod +x test.sh
+   39  ./test.sh
+   40  nano test.sh
+   41  chmod test.sh
+   42  ./test.sh
+   43  nano te3st.h
+   44  nano test.h
+   45  nano test.sh
+   46  chmod +x test.h
+   47  ./test.sh
+   48  nano test.sh
+   49  chmod +x test.sh
+   50  ./test.sh
+   51  nano test.sh
+   52  chmod +x test.sh
+   53  ./test.sh
+   54  nano test.sh
+   55  chmod +x test.sh
+   56  ./test.sh
+   57  nano test.sh
+   58  chmod +x test.sh
+   59  ./test.sh
+   60  nano test.sh
+   61  y
+   62  nano test.sh
+   63  chmod +x test.sh
+   64  ./test.sh zara is 10 years old
+   65  nao test.sh
+   66  nano test.sh
+   67  chmod +x test.sh
+   68  ./test.sh
+   69  chmod +x test.sh
+   70  ./test.sh zara is 10 yrs old
+   71  echo $?
+   72  nano surbh.sh
+   73  chmod +x surbh.sh
+   74  ./surbh.sh
+   75  nano test.sh
+   76  nano p.sh
+   77  chmod +x p.sh
+   78  ./p.sh
+   79  nano p.sh
+   80  chmod +p.sh
+   81  chmod +x p.sh
+   82  ./p.sh
+   83  nano q.sh
+   84  chmod +x q.sh
+   85  ./q.sh
+   86  nano q.sh
+   87  ./q.sh
+   88  chmod +x q.sh
+   89  ./q.sh
+   90  vim m.sh
+   91  help vim
+   92  man vim
+   93  vi practice
+   94  nano m.sh
+   95  chmod +x m.sh
+   96  ./m.sh
+   97  nano a.sh
+   98  mkdir priyanka
+   99  mkdir prinka
+  100  cd prinka a
+  101  mkdir p
+  102  nano forloop.sh
+  103  chmod +x forloop.sh
+  104  ./forloop.sh
+  105  nano forloop.sh
+  106  ./forloop.sh
+  107  nano nesting.sh
+  108  ./nesting.sh
+  109  chmod +x nesting.sh 
+  110  ./nesting.sh
+  111  y
+  112  nano substitution.sh
+  113  chmod +x substitution.sh
+  114  ./substitution.sh
+  115  ls -al ~/.ssh
+  116  cd priyanka
+  117  ls -al ~/.ssh
+  118  ssh-keygen -t rsa -C "priyanka.bhutani@berylsystems.com"
+  119  ls
+  120  ssh-keygen -lf ~/.ssh/id_rsa.pub
+  121  ssh-keygen -lf /path/to/ssh/key
+  122  sudo apt-get update
+  123  sudo apt-get install git
+  124  git install
+  125  git
+  126  ls -al ~/.ssh
+  127  ssh-keygen -t rsa -C "your_email@example.com"
+  128  ls -al ~/.ssh
+  129  ssh-keygen -t rsa -C "priyanka.bhutani@berylsystems.com"
+  130  cat ~/.ssh/id_rsa.pub
+  131  ssh -T git@github.com
+  132  cd priyanka
+  133  vi practice.txt
+  134  git init
+  135  git add .
+  136  git commit -m "first commit"
+  137  git remote add origin https://github.com/bhutanipriyanka/newgroup2.git
+  138  git push -u origin master
+  139  0git commit -m "first commit"
+  140  git commit -m "first commit"
+  141  git remote add origin https://github.com/bhutanipriyanka/newgroup2.git
+  142  git push -u origin master
+  143  cd priyanka
+  144  vi practice1.txt
+  145  git init
+  146  git add .
+  147  git commit-m "first commit"
+  148  git commit -m "first commit"
+  149  git remote add origin https://github.com/bhutanipriyanka/newgroup3.git
+  150  git push -u origin master
+  151  vi plvi.txt
+  152  git init
+  153  git add .
+  154  git commit -m "first commit"
+  155  git config --global user.email "priyanka.bhutani@berlsystems.com"
+  156  git config --global user.name "bhutanipriyanka"
+  157  git remote add origin https://github.com/bhutanipriyanka/newgroup4.git
+  158  git push -u origin master
+  159  git status
+  160  git commit -m "vcim"
+  161  git push -u origin master
+  162  vi open.txt
+  163  git init
+  164  git add .
+  165  git commit -m "first1"
+  166  git push -u origin master
+  167  /priyankagrep/
+  168  /priyanka/grep
+  169  cd priyanka
+  170  grep
+  171  grep help
+  172  grep maqn
+  173  grep man
+  174  git log
+  175  cd practice1
+  176  mkdir practice1
+  177  cd practice1
+  178  https://github.com/bhutanipriyanka
+  179  https://github.com/bhutanipriyanka/newgroup
+  180  git clone https://github.com/bhutanipriyanka/newgroup
+  181  nano test.sh
+  182  chmod +x test.sh
+  183  ./test.sh
+  184  nano test.sh
+  185  chmod +x test.sh
+  186  nano test.sh
+  187  y
+  188  chmod +x test.sh
+  189  ./test.sh
+  190  ./test.sh zaRA ALI
+  191  rmdir ssh
+  192  mv nesting practice1
+  193  mv nesting.txt practice1
+  194  rm nnn
+  195  rm forloop
+  196  rm forloop.sh
+  197  rmdir newa
+  198  cd p1
+  199  cd practicefolder1
+  200  git init
+  201  git add .
+  202  git commit -m "first baic looping programs"
+  203  git push -u origin master
+  204  git commit -m "firstprogram"
+  205  git push -u origin master
+  206  git remote add origin https://github.com/bhutanipriyanka/practice1.git
+  207  git push -u origin master
+  208  git init
+  209  git add.
+  210  git add .
+  211  git init
+  212  git add .
+  213  git commit -m "firstprogram"
+  214  git push -u origin master
+  215  /home/bsuser1/practicefolder1/subprograms/basic command
+  216  home/bsuser1/practicefolder1/subprograms/basic command execution
+  217  cd home/bsuser1/practicefolder1/subprograms/basic command
+  218  cd practicefolder1
+  219  cd basic command
+  220  cd praqcticefolder1 basic command
+  221  ls
+  222  cd subprograms
+  223  cd basic commands
+  224  cd basiccommands
+  225  git status
+  226  cd ..
+  227  cd practice1
+  228  git clone https://github.com/h4/javascript-patterns/blob/master/code-reuse-patterns/borrowing-methods.html
+  229  git clone https://github.com/h4/javascript-patterns/tree/master/code-reuse-patterns
+  230  cd new1
+  231  git clone
+  232  git clone https://github.com/h4/javascript-patterns
+  233  clear
+  234  cd..
+  235  cd ..
+  236  ls -al ~/.ssh
+  237  ssh-keygen -t rsa -C "surbhi.singh@berylsystems.com"
+  238  ls -al ~/.ssh
+  239  ls  ~/.ssh
+  240  cat ~/.ssh/id_rsa.pub
+  241  git reflog
+  242  git help config
+  243  cd priyanka
+  244  cd practicefolder1
+  245  git init
+  246  git add .
+  247  git commit -m "first commit"
+  248  git remote add origin https://github.com/bhutanipriyanka/practice2.git
+  249  git pull
+  250  git push -u origin master
+  251  git init
+  252  git add .
+  253  git commit -m "first commit"
+  254  git remote add origin https://github.com/bhutanipriyanka/practice2.git
+  255  git push -u origin master
+  256  git init
+  257  git add .
+  258  cd ~
+  259  mkdir f1
+  260  cd f1
+  261  vi file1.txt
+  262  git init
+  263  git add .
+  264  git commit -m "first commit"
+  265  git remote add origin https://github.com/bhutanipriyanka/practice2.git
+  266  git push -u origin master
+  267  history
+  268  mkdir touch $(date +"%d-%m-%Y:%T").txt
+  269  touch $(date +"%d-%m-%Y:%T").txt
+  270  cd ..
+  271  touch $(date +"%d-%m-%Y:%T").txt
+  272  history > ~/touch $(date +"%d-%m-%Y:%T").txt
+  273  ls
+  274  touch $(date +"%d-%m-%Y:%T").txt
+  275  history > 08-01-2015:16:20:49.txt
+  276  cd practice1
+  277  git init
+  278  git add .
+  279  git commit -m "contain programs and history"
+  280  git remote add origin https://github.com/bhutanipriyanka/practice.git
+  281  git push -u origin master
+  282  git checkout -b <practice1>
+  283  cd~
+  284  cd ~
+  285  cd practice1
+  286  cd ..
+  287  history > practice1
+  288  history > forloop.sh
+  289  history >>forloop.sh
+  290  find practice1
+  291  w
+  292  df
+  293  top
+  294  'date
+  295  date
+  296  cd f1
+  297  'date
+  298  cd..
+  299  ls
+  300  cd f1
+  301  more f2.txt
+  302  ls | more
+  303  ls -l --color
+  304  clear
+  305  cd ..
+  306  $ sudo apt-get install mysql-server
+  307  $ sudo apt-get install mysql-buser
+  308  $ sudo apt-get install mysql-buser1
+  309  $ sudo apt-get install mysql-server
+  310  $ sudo apt-get install mysql-client
+  311  $ sudo apt-get install mysql-server
+  312  $ sudo apt-get install mysql-client
+  313  $ sudo apt-get install mysql-server
+  314  $ sudo apt-get install mysql-client
+  315  apt-get install mysql-server-5.6 buser1
+  316  clear
+  317  sudo apt-get install mysql-server
+  318  mysqladmin create <hospital>
+  319  mysql install
+  320  man mysql
+  321  sudo apt-get autoclean
+  322  sudo rm -rf /var/lib/mysql
+  323  sudo apt-get remove
+  324  … sudo apt-get autoremove
+  325  …sudo apt-get autoremove
+  326  sudo apt-get autoclean
+  327  sudo apt-get update
+  328  sudo apt-get install mysql-server-5.6
+  329  … mysql -u root -p
+  330  mysql -u root -p
+  331  tutorials_tbl(
+  332  mysql -u root -p
+  333  history
+  334  history > date.txt 
+  335  vi  touch $(date +"%d-%m-%Y:%T").txt
+  336  http://ubuntuhandbook.org/index.php/2013/12/install-sublime-text-3-ubuntu-14-04-trusty/
+  337  sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
+  338  http://ubuntuhandbook.org/index.php/2013/12/install-sublime-text-3-
+  339  sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
+  340  sudo apt-get update; sudo apt-get install -y sublime-text-installer
+  341  https://coderz4life.wordpress.com/2012/07/29/mysql-query-browser-in-ubuntu-12-04/
+  342  sudo apt-add-repository 'deb http://www.tolaris.com/apt/ precise main'
+  343  wget -q http://www.tolaris.com/apt/tolaris-keyring.gpg -O-
+  344  sudo apt-key add -
+  345  sudo apt-add-repository 'deb http://www.tolaris.com/apt/ precise main'
+  346  wget -q http://www.tolaris.com/apt/tolaris-keyring.gpg -O- |
+  347  sudo apt-add-repository 'deb http://www.tolaris.com/apt/ precise main'
+  348  wget -q http://www.tolaris.com/apt/tolaris-keyring.gpg -O-
+  349  wget -q http://www.tolaris.com/apt/tolaris-keyring.gpg -O- | sudo apt-key add -
+  350  sudo apt-get update
+  351  sudo apt-get install mysql-query-browser
+  352  ls
+  353  history > 14-01-2015:09:59:22.txt 
+  354  cd Assignment
+  355  git init
+  356  git add .
+  357  git commit -m "html and js files"
+  358  git remote add origin https://github.com/bhutanipriyanka/form_validation.git
+  359  git push -u origin master
+  360  git clone https://github.com/bhutanipriyanka/practice
+  361  cd Back_up
+  362  git init
+  363  git add .
+  364  git commit -m "history files"
+  365  git remote add origin https://github.com/bhutanipriyanka/back_up.git
+  366  git push -u origin master
+  367  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  368  sudo dpkg –I google-chrome-stable_current_amd64.deb
+  369  exit
+  370  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  371  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  372  \curl -sSL https://get.rvm.io | bash
+  373  sudo apt-get install curl
+  374  \curl -sSL https://get.rvm.io | bash
+  375  https://rvm.io/
+  376  gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
+  377  \curl -sSL https://get.rvm.io | bash -s stable
+  378  sudo apt-get install curl
+  379  rvm list
+  380  sudo apt-add-repository ppa:rael-gc/rvm
+  381  sudo apt-get update
+  382  sudo apt-get install rvm
+  383  sudo apt-get -f install
+  384  sudo apt-add-repository ppa:rael-gc/rvm
+  385  sudo apt-get update
+  386  sudo apt-get install rvm
+  387  man rvm
+  388  `source /etc/profile.d/rvm.sh`
+  389  rvm man
+  390  sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+  391  man rvm
+  392  sudo apt-add-repository ppa:rael-gc/rvm
+  393  sudo apt-get update
+  394  sudo apt-get install dnscrypt-proxy
+  395  sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+  396  source ~/.rvm/scripts/rvm
+  397  sudo apt-add-repository ppa:rael-gc/rvm
+  398  sudo apt-get update
+  399  sudo apt-get install rvm
+  400  man rvm
+  401  sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+  402  man rvm
+  403  rvm list
+  404  sudo apt-get install curl
+  405  /bin/bash --login
+  406  sudo apt-add-repository ppa:rael-gc/rvm
+  407  sudo apt-get update
+  408  sudo apt-get install rvm
+  409  man rvm
+  410  \curl -sSL https://get.rvm.io | bash -s stable --rails
+  411  source ~/.rvm/scripts/rvm
+  412  rvm install 2.1.3
+  413  sudo apt-get update 
+  414  sudo apt-get install gawk g++ gcc make libc6-dev libreadline6-dev zlib1g-dev libssl-dev libyaml-dev libsqlite3-dev sqlite3 autoconf libgdbm-dev libncurses5-dev automake libtool bison pkg-config libffi-dev 
+  415  sudo apt-get update 
+  416  sudo apt-get install curl git-core -y 
+  417  rvm install ruby-2.1.1 
+  418  man rvm
+  419  ite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+  420  sudo apt-get update
+  421  sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+  422  sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+  423  curl -L https://get.rvm.io | bash -s stable
+  424  man rvm
+  425  rvm list
+  426  rvm help install
+  427  rvm install 2.1.1
+  428  rvm install 2.0.0
+  429  rvm list
+  430  rvm help install
+  431  ruby list known
+  432  ruby install 2.1.3
+  433  rvm install ruby-2.1.1 
+  434  rvm install 2.1.3
+  435  /bin/bash --login
+  436  is command k bad??
+  437  /bin/bash --login
+  438  man rvm
+  439  rvm install ruby-2.1.3
+  440  rvm list
+  441  rvm install 1.9.3
+  442  rvm list
+  443  /bin/bash/login
+  444  /bin/bash --login
+  445  rvm list
+  446  rvm install ruby-2.1.5
+  447  rvm list
+  448  rvm use 2.1.5
+  449  history >19-01-2015:17:21:30.txt
+  450  git clone https://github.com/bhutanipriyanka/back_up
+  451  git add .
+  452  git init
+  453  git add .
+  454  git commit -m"back up"
+  455  git pull -u origin master
+  456  git add 19-01-2015:17:21:30.txt
+  457  git commit -m"firstcommit"
+  458  git pull -u origin master
+  459  cd Back_up
+  460  git init
+  461  git add .
+  462  git commit -m"history"
+  463  git push -u origin master
+  464  rvm install ruby-1.9.3
+  465  rvm list 
+  466  rvm install ruby-2.0.0
+  467  cd Back_up
+  468  git init 
+  469  git add .
+  470  git commit -m "first commit"
+  471  git remote add origin https://github.com/bhutanipriyanka/back_up.git
+  472  git push -u origin master
+  473  cd ..
+  474  cd Assignment
+  475  git init
+  476  git add .
+  477  git commit -m"html and js files"
+  478  git remote add origin https://github.com/bhutanipriyanka/FormValidation.git
+  479  git push -u origin master
+  480  git add .
+  481  git commit -m "first commit"
+  482  git push -u origin master
+  483  git add .
+  484  git commit -m "first commit"
+  485  it remote add origin https://github.com/bhutanipriyanka/FormValidation.git
+  486  cd Assignment
+  487  git init
+  488  git commit -m "first commit"
+  489  git remote add origin https://github.com/bhutanipriyanka/FormValidation.git
+  490  git push -u origin master
+  491  cd Assignment
+  492  git init
+  493  git add .
+  494  git commit -m "first commit"
+  495  git remote add origin https://github.com/bhutanipriyanka/Form_Validation.git
+  496  git push -u origin master
+  497  /bin/bash --login
+  498  rvm install ruby-2.2.0
+  499  nano test.sh
+  500  /bin/bash --login
+  501  rvm list
+  502  rvm use ruby-2.2.0
+  503  puts "This is main Ruby Program"
+  504  END {
+  505  }
+  506  BEGIN {
+  507  cd ruby
+  508  puts "Hello, Ruby!";
+  509  cd ..
+  510  /bin/bash --login
+  511  puts "hello"
+  512  a={1,2,3}
+  513  a.methods
+  514  irb
+  515  nano test.rb
+  516  ruby test.rb
+  517  nano test.rb
+  518  a={1,2,3}
+  519  irb
+  520  nano ruby_example1.rb
+  521  ruby ruby_example.1rb
+  522  ruby ruby_example1.rb
+  523  nano ruby_example1.rb
+  524  ruby ruby_example1.rb
+  525  cd ruby
+  526  nano example1.rb
+  527  ruby example1.rb
+  528  nano example1.rb
+  529  ruby example1.rb
+  530  cd ..
+  531  nano example1.rb
+  532  ruby example1.rb
+  533  nano example1.rb
+  534  ruby example1.rb
+  535  nano example1.rb
+  536  nano example.rb
+  537  ruby example.rb
+  538  cd ruby
+  539  nano example.rb
+  540  ruby example.rb
+  541  nano example.rb
+  542  nano factorial.rb
+  543  ruby factorial.rb
+  544  ary = [  "fred", 10, 3.14, "This is a string", "last element", ]
+  545  ary.each do |i|    puts i
+  546  cd ..
+  547  irb
+  548  nano if_example.rb
+  549  ruby if_example.rb
+  550  nano if_example.rb
+  551  ruby if_example.rb
+  552  cd ruby
+  553  nano if_example.rb
+  554  ruby if_example.rb
+  555  nano case_example.rb
+  556  ruby case_example.rb
+  557  nano case_examples.rb
+  558  ruby case_examples.rb
+  559  nano while_example.rb
+  560  ruby while_example.rb
+  561  nano while_example.rb
+  562  ruby while_example.rb
+  563  nano for.rb
+  564  ruby for.rb
+  565  nano for.rb
+  566  ruby for.rb
+  567  ruby if_example.rb
+  568  nano if_example.rb
+  569  nano next_example.rb
+  570  ruby next_example.rb
+  571  nano next_example.rb
+  572  ruby next_example.rb
+  573  nano next_example.rb
+  574  ruby next_example.rb
+  575  nano next_example.rb
+  576  ruby next_example.rb
+  577  nano next_example.rb
+  578  ruby next_example.rb
+  579  nano next_example.rb
+  580  ruby next_example.rb
+  581  cd ..
+  582  touch $(date +"%d-%m-%Y:%T").txt
+  583  history >20-01-2015:18:16:13.txt
+  584  history < 20-01-2015:18:16:13.txt
+  585  touch $(date +"%d-%m-%Y:%T").txt
+  586  history >20-01-2015:18:16:13.txt
+  587  rvm list
+  588  rvm use 2.2.0
+  589  cd ruby
+  590  nano block_example
+  591  nano block_example.rb
+  592  ruby block_example.rb
+  593  nano block_example.rb
+  594  ruby block_example.rb
+  595  nano block_example.rb
+  596  ruby block_example.rb
+  597  nano block_example.rb
+  598  ruby block_example.rb
+  599  nano module_example.rb
+  600  ruby module_example.rb
+  601  nano module_example.rb
+  602  ruby module_example.rb
+  603  LOAD_PATH << '.'
+  604  require "support"
+  605  class Decade
+  606  include Week
+  607     no_of_yrs=10
+  608     def no_of_months
+  609        puts Week::FIRST_DAY
+  610        number=10*12
+  611        puts number
+  612     end
+  613  end
+  614  d1=Decade.new
+  615  puts Week::FIRST_DAY
+  616  Week.weeks_in_month
+  617  Week.weeks_in_year
+  618  d1.no_of_months
+  619  quit
+  620  exit
+  621  rvm use ruby-2.2.0
+  622  cd ruby 
+  623  nano module_example.rb
+  624  nano include_example.rb
+  625  ruby include_example.rb
+  626  nano include_example.rb
+  627  ruby include_example.rb
+  628  nano string_example.rb
+  629  ruby string_example.rb
+  630  nano string_example.rb
+  631  ruby string_example.rb
+  632  nano string_example.rb
+  633  ruby string_example.rb
+  634  nano string_example.rb
+  635  ruby string_example.rb
+  636  nano string_example.rb
+  637  ruby string_example.rb
+  638  nano hash_example.rb
+  639  ruby hash_example.rb
+  640  nano hash_example.rb
+  641  ruby hash_example.rb
+  642  nano hash_example.rb
+  643  ruby hash_example.rb
+  644  nano hash_example.rb
+  645  ruby hash_example.rb
+  646  nano hash_example.rb
+  647  ruby hash_example.rb
+  648  nano hash2_example.rb
+  649  ruby hash2_example.rb
+  650  nano hash2_example.rb
+  651  ruby hash2_example.rb
+  652  nano hash2_example.rb
+  653  ruby hash2_example.rb
+  654  nano time_example.rb
+  655  ruby time_example.rb
+  656  nano hash2_example.rb
+  657  ruby hash2_example.rb
+  658  nano hash2_example.rb
+  659  ruby hash2_example.rb
+  660  nano hash2_example.rb
+  661  ruby hash2_example.rb
+  662  time.methods
+  663  irb
+  664  nano time_example.rb
+  665  ruby time_example.rb
+  666  nano time_example.rb
+  667  ruby time_example.rb
+  668  nano time_example.rb
+  669  ruby time_example.rb
+  670  nano time_example.rb
+  671  ruby time_example.rb
+  672  nano time_example.rb
+  673  ruby time_example.rb
+  674  nano time_example.rb
+  675  ruby time_example.rb
+  676  nano time_example.rb
+  677  ruby time_example.rb
+  678  nano time_example.rb
+  679  nano iterator_example.rb
+  680  ruby iterator_example.rb
+  681  nano iterator_example.rb
+  682  ruby iterator_example.rb
+  683  nano iterator_example.rb
+  684  ruby iterator_example.rb
+  685  nano iterator_example.rb
+  686  ruby iterator_example.rb
+  687  nano iterator_example.rb
+  688  ruby iterator_example.rb
+  689  nano iterator_example.rb
+  690  nano gets_example.rb
+  691  ruby gets_example.rb
+  692  nano file_example.rb
+  693  ruby file_example.rb
+  694  nano file_example.rb
+  695  ruby file_example.rb
+  696  nano file_example.rb
+  697  ruby file_example.rb
+  698  nano case_examples.rb
+  699  nano file_example.rb
+  700  ruby file_example.rb
+  701  nano file_example.rb
+  702  ruby file_example.rb
+  703  nano file_example.rb
+  704  ruby file_example.rb
+  705  nano waste.rb
+  706  nano file_example.rb
+  707  ruby file_example.rb
+  708  nano file_example.rb
+  709  ruby file_example.rb
+  710  Dir.mkdir("mynewdir")
+  711  nano string_methods.rb
+  712  ruby string_methods.rb
+  713  nano string_methods.rb
+  714  ruby string_methods.rb
+  715  nano string_methods.rb
+  716  ruby string_methods.rb
+  717  nano string_methods.rb
+  718  irb
+  719  nano string_methods.rb
+  720  ruby string_methods.rb
+  721  irb
+  722  ruby string_methods.rb
+  723  nano string_methods.rb
+  724  ruby string_methods.rb
+  725  nano string_methods.rb
+  726  ruby string_methods.rb
+  727  nano string_methods.rb
+  728  irb
+  729  cd ..
+  730  history > 21-01-2015:18:12:26.txt
